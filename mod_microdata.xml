@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension type="module" method="upgrade" client="site">
+	<name>Microdata Injector</name>
+	<creationDate>09.05.2017</creationDate>
+	<author>Pablo Moneylesh</author>
+	<authorEmail></authorEmail>
+	<authorUrl></authorUrl>
+	<copyright>Copyright © 2017 - All rights reserved.</copyright>
+	<license>GNU General Public License v2.0</license>
+	<version>1.0.0</version>
+	<description>Microdata Injector</description>
+	<files>
+		<filename module="mod_microdata">mod_microdata.php</filename>
+		<filename>mod_microdata.xml</filename>		
+		<filename>index.html</filename>
+	</files>
+	
+	
+	
+</extension>
